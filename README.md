@@ -23,8 +23,8 @@
 #### 🧩 Always Something to Hunt:
 ##### From collectible Paragon Cards to rare loot in the Trap House and Butcher's Den, there's no shortage of progression. Team up or go solo—hunt, raid, and conquer.
 
-> ![NOTE]
-### 🖥️ Server Info:
+> [!NOTE]
+>### 🖥️ Server Info:
 #### VORTEX | 10-Man | 350K Start | PvP | Traders | Events | 3PP | Spawn Selector
 ## 🎮 Join Now: 
-> #### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
+#### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
