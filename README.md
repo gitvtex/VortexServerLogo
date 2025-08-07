@@ -8,6 +8,7 @@
 ## Join VORTEX, a fully customized DayZ experience where PvP and progression collide. Build your 10-man squad and dive into a dynamic world packed with DNA Keycards, custom traders, and loot-heavy events like Capture the Flag and Mystery Boxes.
 
 > [!IMPORTANT]
+
 #### 🔥 Key Features:
 ##### 🗺️ Custom Traders & Map Events
 ##### 🎯 350K Start | Spawn Selector | Events
@@ -24,6 +25,7 @@
 ##### From collectible Paragon Cards to rare loot in the Trap House and Butcher's Den, there's no shortage of progression. Team up or go solo—hunt, raid, and conquer.
 
 > [!NOTE]
+
 ### 🖥️ Server Info:
 #### VORTEX | 10-Man | 350K Start | PvP | Traders | Events | 3PP | Spawn Selector
 ## 🎮 Join Now: 
