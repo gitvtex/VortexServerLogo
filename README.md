@@ -1,6 +1,6 @@
 # <INS>🌪️ VORTEX — THE ULTIMATE MODDED DAYZ EXPERIENCE</INS>
  
-#### ![](https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png)
+######                                                                                ![](https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png)
 
 #### <INS> Explore - Dominate - Loot - Survive</INS>
 
