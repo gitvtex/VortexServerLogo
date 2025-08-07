@@ -1,6 +1,4 @@
-# <INS>🌪️ VORTEX — THE ULTIMATE MODDED DAYZ EXPERIENCE</INS>
- 
-######                                                                                ![](https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png)
+# <INS>🌪️ VORTEX — THE ULTIMATE MODDED DAYZ EXPERIENCE</INS>   ![](https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png)
 
 #### <INS> Explore - Dominate - Loot - Survive</INS>
 
@@ -25,6 +23,6 @@
 
 > [!NOTE]
 >### 🖥️ Server Info:
-#### VORTEX | 10-Man | 350K Start | PvP | Traders | Events | 3PP | Spawn Selector
-## 🎮 Join Now: 
-#### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
+>#### VORTEX | 10-Man | 350K Start | PvP | Traders | Events | 3PP | Spawn Selector
+>## 🎮 Join Now: 
+>#### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
