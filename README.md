@@ -1,11 +1,12 @@
 # 🌪️ VORTEX — THE ULTIMATE MODDED DAYZ EXPERIENCE
  
-[logo]: https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png
+[logo]:https://github.com/gitvtex/VortexServerLogo/blob/main/Dayz/rustyV250.png
 
-### <INS>Explore - Dominate - Loot - Survive</INS>
+### <INS> Explore - Dominate - Loot - Survive</INS>
 
 
-## Join VORTEX, a fully customized DayZ experience where PvP and progression collide. Build your 10-man squad and dive into a dynamic world packed with DNA Keycards, custom traders, and loot-heavy events like Capture the Flag and Mystery Boxes.
+## Join VORTEX, a fully customized DayZ experience where PvP and progression collide. 
+## Build your 10-man squad and dive into a dynamic world packed with DNA Keycards, custom traders, and events.
 
 #### 🔥 Key Features:
 ##### 🗺️ Custom Traders & Map Events
